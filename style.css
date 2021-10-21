@@ -139,3 +139,13 @@ figcaption {
     display: flex;
     flex-wrap: wrap;
 }
+iframe {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description{
+margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+}
